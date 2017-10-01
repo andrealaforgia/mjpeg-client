@@ -1,4 +1,4 @@
-package com.andrealaforgia.mjpegserver;
+package com.andrealaforgia.mjpegclient;
 
 import java.awt.image.BufferedImage;
 

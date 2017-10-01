@@ -1,4 +1,4 @@
-package com.andrealaforgia.mjpegserver;
+package com.andrealaforgia.mjpegclient;
 
 import javax.imageio.ImageIO;
 import java.awt.*;
